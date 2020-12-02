@@ -1,0 +1,4 @@
+nama=Dimas Lesmana#kartu=25723#rekening=100015723#pin=111111#saldo=100000#blocked=0
+nama=Muhammad Akmal Hisyam#kartu=25838#rekening=100015838#pin=222222#saldo=200000#blocked=0
+nama=Muhamad Fajri Tirta N#kartu=25926#rekening=100015926#pin=333333#saldo=300000#blocked=0
+nama=Pandu Wijaya#kartu=26007#rekening=100016007#pin=444444#saldo=400000#blocked=0
